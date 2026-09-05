@@ -1,0 +1,4 @@
+Student ID : 101
+Name       : Subhasri S
+Course     : CSE
+Marks      : 92
